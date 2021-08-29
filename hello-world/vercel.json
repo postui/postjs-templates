@@ -1,7 +1,7 @@
 {
   "functions": {
-    "api/**/*.{j,t}s": {
-      "runtime": "vercel-aleph@0.6.0"
+    "api/**/*.ts": {
+      "runtime": "vercel-aleph@0.7.0"
     }
   }
 }
